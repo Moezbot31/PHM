@@ -1,0 +1,13 @@
+{
+  "name": "FloraVision AI - IoT Plant Monitoring Dashboard",
+  "short_name": "FloraVision",
+  "description": "A professional IoT-based plant monitoring dashboard featuring real-time sensor simulation, AI health diagnostics, and smart analytics for horticulture.",
+  "display": "standalone",
+  "theme_color": "#059669",
+  "background_color": "#f8fafc",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
